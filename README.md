@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Galaxical
-- 👀 I’m interested in Web 2.0 and Web 3.0 development
-- 🌱 I’m currently learning JavaScript and interning with GensysTech Hub where i am learning to build web3.0 app with Solidity.  
+- 👋 Hi, I’m Somtochukwu, a scientist and digital tech savvy bro. 
+- 👀 I’m interested in Web 2.0 and Web 3.0 development, Data science, and WebGIS.
+- 🌱 I’m ready to contribute on open-source projects such as blockchain data analysis, tokenomics, app designs, and web GIS
 - 💞️ I’m looking to collaborate on projects to provide sustainable solutions to the environmental through digital products 
 - 📫 You can reach me via email (azisomtochukwu@gmail.com) or WhatsApp (+234-8028049727)
 
